@@ -47,6 +47,7 @@ export default {
     }
   },
   palettes: {
+    marginBottom: "10vh",
     boxSizing: "border-box",
     width: "100%",
     display: "grid",
